@@ -51,7 +51,7 @@ const PROJECTS: Project[] = [
     label: "Web Design",
     author: "Naufal Yuri",
     published: "Sep 2026",
-    url: "#",
+    url: "https://github.com/Fugakuuu/Portofolio",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
     tags: ["Next.js", "Tailwind", "TypeScript"],
   },
