@@ -25,8 +25,8 @@ const ENTRIES: Entry[] = [
     company: "Institute of Computerization Development",
     role: "Lab Assistant",
     period: "2023 – Present",
-    brand: "#FF5A5F",
-    logo: "/lepKom.webp",
+    brand: "#0AE448",
+    logo: "/Lepkom.webp",
   },
 ];
 
