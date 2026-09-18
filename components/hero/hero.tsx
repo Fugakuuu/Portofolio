@@ -23,7 +23,7 @@ export function Hero(): ReactNode {
                 text={["Naufal Yuri", "a Web Developer", "an IT Support"]}
                 typingSpeed={80}
                 pauseDuration={4000}
-                deletingSpeed={40}
+                deletingSpeed={50}
                 showCursor={true}
                 cursorCharacter="_"
                 className="inline font-semibold"
