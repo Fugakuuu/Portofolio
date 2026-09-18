@@ -47,7 +47,7 @@ export function ContactCard(): ReactNode {
                   items={[
                     <SocialPaper
                       key="linkedin"
-                      href="https://www.linkedin.com"
+                      href="https://www.linkedin.com/in/naufalyuri/"
                       label="LinkedIn"
                       imageSrc="/linkedin.svg"
                     />,
