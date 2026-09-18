@@ -5,7 +5,7 @@ import { FadeIn, ScaleUnblur } from "@/components/ui/motion-primitives";
 import { PortraitMorph } from "./portrait-morph";
 import { TextType } from "@/components/ui/text-type";
 
-const PORTRAIT_SRC = "/Me.webp";
+const PORTRAIT_SRC = "/ME.webp";
 const PORTRAIT_HOVER_SRC = "/Sukuna.webp";
 
 export function Hero(): ReactNode {
