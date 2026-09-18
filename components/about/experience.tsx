@@ -26,7 +26,7 @@ const ENTRIES: Entry[] = [
     role: "Lab Assistant",
     period: "2023 – Present",
     brand: "#FF5A5F",
-    logo: "/lepkom.webp",
+    logo: "/lepKom.webp",
   },
 ];
 
