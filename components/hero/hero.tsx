@@ -21,7 +21,7 @@ export function Hero(): ReactNode {
               , I&rsquo;m{" "}
               <TextType
                 text={["Naufal Yuri", "a Web Developer", "an IT Support"]}
-                typingSpeed={80}
+                typingSpeed={90}
                 pauseDuration={4000}
                 deletingSpeed={50}
                 showCursor={true}
