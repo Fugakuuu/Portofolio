@@ -40,7 +40,7 @@ const PROJECTS: Project[] = [
     author: "Naufal Yuri",
     published: "2026",
     url: "https://github.com/Fugakuuu/Libary-Online",
-    image: "/Perpus.webp",
+    image: "/Perpusonline.webp",
     tags: ["React.js", "Node.js", "TypeScript"],
   },
   {
