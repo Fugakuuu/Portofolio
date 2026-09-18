@@ -21,9 +21,9 @@ export function Hero(): ReactNode {
               , I&rsquo;m{" "}
               <TextType
                 text={["Naufal Yuri", "a Web Developer", "an IT Support"]}
-                typingSpeed={100}
-                pauseDuration={2000}
-                deletingSpeed={150}
+                typingSpeed={80}
+                pauseDuration={4000}
+                deletingSpeed={40}
                 showCursor={true}
                 cursorCharacter="_"
                 className="inline font-semibold"
