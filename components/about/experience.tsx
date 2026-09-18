@@ -26,7 +26,7 @@ const ENTRIES: Entry[] = [
     role: "Lab Assistant",
     period: "2023 – Present",
     brand: "#0AE448",
-    logo: "/Lepkom.webp",
+    logo: "https://vm.lepkom.gunadarma.ac.id/assets/front/images/logo-lepkom.png",
   },
 ];
 

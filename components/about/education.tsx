@@ -77,7 +77,7 @@ function SchoolLogo({ entry }: { entry: Entry }): ReactNode {
 
   return (
     <span
-      className="border-foreground/15 bg-foreground/[0.03] inline-flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-[14px] border p-1"
+      className="border-foreground/15 bg-foreground/3 inline-flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-[14px] border p-1"
       aria-hidden="true"
     >
       {imageSrc && !hasError ? (
