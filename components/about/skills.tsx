@@ -2,7 +2,6 @@ import type { ReactNode } from "react";
 
 const SKILLS = [
   "IT Support",
-  "System Administration",
   "Troubleshooting",
   "Web Development",
   "Database Management",
