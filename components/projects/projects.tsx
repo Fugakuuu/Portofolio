@@ -60,12 +60,24 @@ const PROJECTS: Project[] = [
     title: "Basic Pac-Man Game",
     summary:
       "A simple Pac-Man game built with vanilla JavaScript.",
-    label: "Web Application",
+    label: "Game Development",
     author: "Naufal Yuri",
     published: "2025",
     url: "https://github.com/Fugakuuu/Pacman-Project",
     image: "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/05/Pacman-Title.jpg?w=1600&h=900&fit=crop",
     tags: ["JavaScript", "HTML", "CSS"],
+  },
+  {
+    id: "project-5",
+    title: "Mount Deze | Roblox Game",
+    summary:
+      "A Roblox game inspired by the popular mountain climbing theme.",
+    label: "Game Development",
+    author: "Naufal Yuri",
+    published: "2025",
+    url: "https://www.roblox.com/games/121360062218332/Mount-Deze",
+    image: "/MountDeze.webp",
+    tags: ["Lua", "Roblox Studio"],
   },
 ];
 
