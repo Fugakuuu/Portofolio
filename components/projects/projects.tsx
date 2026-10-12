@@ -47,7 +47,7 @@ const PROJECTS: Project[] = [
     id: "project-3",
     title: "Portfolio & Personal Branding Website",
     summary:
-      "Portfolio website showcasing work and skills. Built with Next.js, Tailwind CSS, and optimized for SEO and performance.",
+      "A personal portfolio website showcasing my skills, projects, and experience.",
     label: "Web Design",
     author: "Naufal Yuri",
     published: "2025",
@@ -71,7 +71,7 @@ const PROJECTS: Project[] = [
     id: "project-5",
     title: "Mount Deze | Roblox Game",
     summary:
-      "A Roblox game inspired by the popular mountain climbing theme.",
+      "Mount Deze is a Roblox game that I created, where players can explore a virtual world and complete various challenges.",
     label: "Game Development",
     author: "Naufal Yuri",
     published: "2025",
